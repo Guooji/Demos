@@ -1,0 +1,261 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_2 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.button {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+._形状 {
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.tree_node {
+  font-size:13px;
+  text-align:left;
+  line-height:20px;
+}
+.menu_item {
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+._连接 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
+.box_1 {
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._图片 {
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.icon {
+}
+.label1 {
+  font-size:13px;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.text_field1 {
+  color:#666666;
+  text-align:left;
+}
+.table_cell {
+}
+._默认样式 {
+}
+.image1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.placeholder {
+}
+.flow_shape {
+}
+._图片_ {
+}
+.box_21 {
+}
+._cut_web_text_18px_页面标题、大标题 {
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#55677D;
+  text-align:left;
+}
+._cut_web_line {
+}
+._cut_web_text_14px_______ {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#55677D;
+  text-align:left;
+}
+._cut_web_bth-primary {
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+._cut_web_bth-primary-hover {
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+._cut_web_bth-primary-click {
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+._cut_web_btn-primary-disable {
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+._cut_web_text_16px______ {
+  font-family:'苹方 Bold', '苹方';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#55677D;
+  text-align:left;
+}
+._cut_web_form-text_field {
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#DBDDE0;
+  text-align:left;
+}
+._cut_web_form-text_field-hover {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._cut_web_form-text_field-click {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._cut_web_form-text__field-text {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#9EA7B4;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.text_area1 {
+  color:#000000;
+  text-align:left;
+}
+.primary_button1 {
+  color:#FFFFFF;
+}
+textarea, select, input, button { outline: none; }
